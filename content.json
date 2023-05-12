@@ -16,6 +16,6 @@
   ],
   "pages": [
     { "name": "Blog",     "url": "{{{root}}}",         "visible": true },
-    { "name": "Projects", "url": "{{{root}}}projects", "visible": true }
+    { "name": "About", "url": "{{{root}}}About", "visible": true }
   ]
 }
