@@ -12,6 +12,19 @@ text-rendering: optimizeLegibility;
 -ms-font-smoothing: antialiased;
 -o-font-smoothing: antialiased;
 }
+.thumbnail {
+  float: left;
+  margin-right: 10px;
+  width: 150px;
+  height: 150px;
+}
+thumbnail {
+  float: left;
+  margin-right: 10px;
+  width: 150px;
+  height: 150px;
+}
+
 body { margin: 85px 0 85px 0; }
 .post { max-width: 700px !important; margin: 0 auto; box-sizing: border-box; }
 .header { margin-bottom: 30px; }
