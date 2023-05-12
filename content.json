@@ -10,9 +10,9 @@
     { "type": "application/rss+xml",  "url": "{{{root}}}blog/feed.rss"}
   ],
   "links": [
-    { "name": "Twitter", "symbol": "&#xe286;", "url": "https://www.twitter.com/lutzroeder" },
-    { "name": "GitHub",  "symbol": "&#xe237;", "url": "https://github.com/lutzroeder" },
-    { "name": "RSS",     "symbol": "&#xe271;", "url": "{{{root}}}blog/feed.atom" }
+
+    { "name": "GitHub",  "symbol": "&#xe237;", "url": "https://github.com/AbhinavM2000" },
+
   ],
   "pages": [
     { "name": "Blog",     "url": "{{{root}}}",         "visible": true },
