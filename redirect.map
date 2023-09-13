@@ -3,3 +3,4 @@
 /rss.xml       /blog/feed.rss  301
 /blog/atom.xml /blog/feed.atom 301
 /blog/rss.xml  /blog/feed.rss  301
+/rdr_ltx   http://www.google.com   301
